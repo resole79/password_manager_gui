@@ -1,6 +1,7 @@
 ## Password Manager
 
-Program wrote in python + tkinter to write in json file name of site and random password generate with [**PyPassword Generator**](https://github.com/resole79/password_random_generator)       
+**Password Manager** written in Python using the Tkinter library.
+Program will write, and search in json file name of web site and random password generate with [**PyPassword Generator**](https://github.com/resole79/password_random_generator)       
 
 
 ###### It's a part of the **#100DaysOfCode** challenge by *Angela Yu*. ######      
